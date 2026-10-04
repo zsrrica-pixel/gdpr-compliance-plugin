@@ -1,0 +1,7 @@
+{
+  "name": "gdpr-compliance",
+  "version": "0.1.0",
+  "description": "GDPR compliance toolkit: DPIAs, records of processing, privacy policy review, breach response and data subject requests",
+  "author": { "name": "zsrrica-pixel" },
+  "keywords": ["gdpr", "privacy", "compliance", "dpia", "dsar"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "gdprgard-plugins",
+  "owner": { "name": "zsrrica-pixel" },
+  "description": "GDPR compliance plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "gdpr-compliance",
+      "source": "./",
+      "description": "GDPR compliance toolkit: DPIAs, ROPA, privacy policy review, cookie/tracker audits, DPA review, breach response and DSARs"
+    }
+  ]
+}
