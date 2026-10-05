@@ -1,7 +1,9 @@
 {
   "name": "gdprgard-plugins",
-  "owner": { "name": "zsrrica-pixel" },
-  "description": "GDPR compliance plugins for Claude Code",
+  "owner": {
+    "name": "zsrrica-pixel"
+  },
+  "description": "GDPR compliance skills from GDPRGard",
   "plugins": [
     {
       "name": "gdpr-compliance",

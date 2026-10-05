@@ -1,8 +1,12 @@
-# gdpr-compliance
+<p align="center"><img src="assets/logo.png" alt="GDPRGard Compliance Skills logo" width="140"></p>
 
-A [Claude Code](https://claude.com/claude-code) plugin for everyday GDPR work, from the team behind [GDPRGard](https://gdprgard.eu).
+# GDPRGard Compliance Skills
+
+Seven GDPR working skills and two commands for everyday privacy work, from the team behind [GDPRGard](https://gdprgard.eu). Install it as a plugin (plugin id `gdpr-compliance`) in [Claude Code](https://claude.com/claude-code).
 
 > **Not legal advice.** The skills produce working drafts and checklists to help you prepare and review. They are a summary of GDPR requirements, not a substitute for your DPO or a qualified lawyer. Check outputs before relying on them.
+
+> **Independent project.** GDPRGard is not affiliated with, endorsed or sponsored by Anthropic. Claude and Claude Code are trademarks of Anthropic.
 
 ## Skills
 
@@ -29,6 +33,8 @@ A [Claude Code](https://claude.com/claude-code) plugin for everyday GDPR work, f
 ```
 
 Restart Claude Code (or run `/reload-plugins`) after installing. To try it without installing, clone the repo and run `claude --plugin-dir <path-to-clone>`.
+
+More on the project page: [gdprgard.eu/gdpr-compliance-skills](https://gdprgard.eu/gdpr-compliance-skills).
 
 ## More
 

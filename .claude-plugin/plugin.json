@@ -2,6 +2,17 @@
   "name": "gdpr-compliance",
   "version": "0.1.0",
   "description": "GDPR compliance toolkit: DPIAs, records of processing, privacy policy review, breach response and data subject requests",
-  "author": { "name": "zsrrica-pixel" },
-  "keywords": ["gdpr", "privacy", "compliance", "dpia", "dsar"]
+  "author": {
+    "name": "zsrrica-pixel"
+  },
+  "keywords": [
+    "gdpr",
+    "privacy",
+    "compliance",
+    "dpia",
+    "dsar"
+  ],
+  "homepage": "https://gdprgard.eu/gdpr-compliance-skills",
+  "repository": "https://github.com/zsrrica-pixel/gdpr-compliance-plugin",
+  "license": "MIT"
 }

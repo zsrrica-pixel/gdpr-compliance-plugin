@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="512" height="512" role="img" aria-label="GDPRGard Compliance Skills logo">
+  <title>GDPRGard Compliance Skills</title>
+  <polygon fill="#8b2635" points="212,92 812,92 884,180 884,590 512,930 140,590 140,180"/>
+  <polygon fill="#1a1612" points="228.1,126.0 795.9,126.0 850.0,192.1 850.0,575.0 512.0,883.9 174.0,575.0 174.0,192.1"/>
+  <rect x="487.0" y="197.0" width="50" height="50" fill="#e8c97a"/>
+  <rect x="596.0" y="226.2" width="50" height="50" fill="#c9a84c"/>
+  <rect x="675.8" y="306.0" width="50" height="50" fill="#c9a84c"/>
+  <rect x="705.0" y="415.0" width="50" height="50" fill="#c9a84c"/>
+  <rect x="675.8" y="524.0" width="50" height="50" fill="#c9a84c"/>
+  <rect x="596.0" y="603.8" width="50" height="50" fill="#c9a84c"/>
+  <rect x="487.0" y="633.0" width="50" height="50" fill="#e8c97a"/>
+  <rect x="378.0" y="603.8" width="50" height="50" fill="#c9a84c"/>
+  <rect x="298.2" y="524.0" width="50" height="50" fill="#c9a84c"/>
+  <rect x="269.0" y="415.0" width="50" height="50" fill="#c9a84c"/>
+  <rect x="298.2" y="306.0" width="50" height="50" fill="#c9a84c"/>
+  <rect x="378.0" y="226.2" width="50" height="50" fill="#c9a84c"/>
+  <polyline fill="none" stroke="#ffffff" stroke-width="62" stroke-linecap="round" stroke-linejoin="round" points="396,452 476,534 640,360"/>
+</svg>
