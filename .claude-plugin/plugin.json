@@ -1,6 +1,6 @@
 {
-  "name": "gdpr-compliance",
-  "version": "0.1.0",
+  "name": "gdprgard-compliance",
+  "version": "0.2.0",
   "description": "GDPR compliance toolkit: DPIAs, records of processing, privacy policy review, breach response and data subject requests",
   "author": {
     "name": "zsrrica-pixel"
@@ -14,5 +14,11 @@
   ],
   "homepage": "https://gdprgard.eu/gdpr-compliance-skills",
   "repository": "https://github.com/zsrrica-pixel/gdpr-compliance-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "displayName": "GDPRGard Compliance Skills",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://gdprgard.eu/gdpr-compliance-skills",
+  "supportUrl": "https://gdprgard.eu/contact",
+  "privacyPolicyUrl": "https://gdprgard.eu/privacy",
+  "termsOfServiceUrl": "https://gdprgard.eu/terms"
 }

@@ -2,7 +2,7 @@
 
 # GDPRGard Compliance Skills
 
-Seven GDPR working skills and two commands for everyday privacy work, from the team behind [GDPRGard](https://gdprgard.eu). Install it as a plugin (plugin id `gdpr-compliance`) in [Claude Code](https://claude.com/claude-code).
+Seven GDPR working skills and two commands for everyday privacy work, from the team behind [GDPRGard](https://gdprgard.eu). Install it as a plugin (plugin id `gdprgard-compliance`) in [Claude Code](https://claude.com/claude-code).
 
 > **Not legal advice.** The skills produce working drafts and checklists to help you prepare and review. They are a summary of GDPR requirements, not a substitute for your DPO or a qualified lawyer. Check outputs before relying on them.
 
@@ -22,14 +22,14 @@ Seven GDPR working skills and two commands for everyday privacy work, from the t
 
 ## Commands
 
-- `/gdpr-compliance:gdpr-check <path or description>` - prioritised compliance review
-- `/gdpr-compliance:breach <incident>` - start a breach response
+- `/gdprgard-compliance:gdpr-check <path or description>` - prioritised compliance review
+- `/gdprgard-compliance:breach <incident>` - start a breach response
 
 ## Install
 
 ```
 /plugin marketplace add zsrrica-pixel/gdpr-compliance-plugin
-/plugin install gdpr-compliance@gdprgard-plugins
+/plugin install gdprgard-compliance@gdprgard-plugins
 ```
 
 Restart Claude Code (or run `/reload-plugins`) after installing. To try it without installing, clone the repo and run `claude --plugin-dir <path-to-clone>`.

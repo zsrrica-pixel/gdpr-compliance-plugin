@@ -6,7 +6,7 @@
   "description": "GDPR compliance skills from GDPRGard",
   "plugins": [
     {
-      "name": "gdpr-compliance",
+      "name": "gdprgard-compliance",
       "source": "./",
       "description": "GDPR compliance toolkit: DPIAs, ROPA, privacy policy review, cookie/tracker audits, DPA review, breach response and DSARs"
     }
