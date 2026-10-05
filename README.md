@@ -34,6 +34,24 @@ Restart Claude Code (or run `/reload-plugins`) after installing. To try it witho
 
 Free GDPR tools, guides and templates: [gdprgard.eu](https://gdprgard.eu)
 
+## Contributing
+
+Issues and pull requests are welcome.
+
+**Report a problem or suggest a skill:** open a [GitHub issue](https://github.com/zsrrica-pixel/gdpr-compliance-plugin/issues). For a wrong or outdated legal statement, include the skill name, the passage, and a source (the GDPR article, EDPB guideline or authority decision) that supports the correction.
+
+**Change a skill or command:**
+1. Fork the repo and edit the relevant `skills/<name>/SKILL.md` or `commands/<name>.md`.
+2. Validate the plugin: `claude plugin validate .`
+3. Try it locally: `claude --plugin-dir .`, then run the skill on a realistic example.
+4. Open a pull request describing what changed and why.
+
+**Guidelines**
+- Cite the GDPR article or guidance a check is based on, and keep the "working draft, not legal advice" framing.
+- Make skills handle missing facts by listing open questions, not by guessing.
+- Keep each skill focused on one task, with a clear output format (table, findings list, draft text).
+- Never put personal data, real customer details or credentials in examples.
+
 ## License
 
 [MIT](LICENSE)
